@@ -1,9 +1,9 @@
-let i =0
-const isSquare = Number.isInteger(Math.sqrt(i));
+let j =0
+const isSquare = Number.isInteger(Math.sqrt(j));
 
-while(i<=100){
-    console.log(i);
-    i++
+while(j<=100){
+    console.log(j);
+    j++
 
     if(isSquare){
         break;

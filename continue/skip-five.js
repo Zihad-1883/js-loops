@@ -8,10 +8,10 @@
     
 
 let i = 55;
-while(i<=85){
-    if(i % 5 === 0){
+while(j<=85){
+    if(j % 5 === 0){
         continue;
     }
-    console.log(i);
-    i++
+    console.log(j);
+    j++
 }

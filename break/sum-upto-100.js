@@ -1,8 +1,8 @@
 let i = 1;
-while(i>=1){
+while(j>=1){
     sum = 0;
-    sum+=i;
-    i++
+    sum+=j;
+    j++
 
     if(sum>100){
         break;
